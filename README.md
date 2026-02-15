@@ -1,5 +1,5 @@
 # Smart-Aquaponic-System Project Report
-IOT based plant health monitoring system
+## IOT based plant health monitoring system
 In this repository you will find only the Report on this Project.
 
 <img width="1218" height="670" alt="Art1" src="https://github.com/user-attachments/assets/822c7e13-ac48-46a8-b6e1-4bd3327f2380" />
